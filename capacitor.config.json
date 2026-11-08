@@ -1,0 +1,7 @@
+{
+  "appId": "com.gafferseat.app",
+  "appName": "GafferSeat",
+  "webDir": "www",
+  "backgroundColor": "#17301f",
+  "android": { "allowMixedContent": false }
+}
